@@ -1,12 +1,14 @@
-name: "temp"
+name: "Yuliana"
 title: "Yuliana's Blog"
 description: |
   Yuliana's Blog
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "Home&Blog"
       href: index.html
-    - text: "About"
+    - text: "About Blog"
       href: about.html
+    - text: "about Yuliana"
+      href: Author.html
 output: distill::distill_article

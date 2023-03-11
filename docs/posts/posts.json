@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2023-03-11-writing-in-blog/",
+    "title": "How to create a blog using R",
+    "description": "Welcome to our new blog, Yuliana's Blog. This time, we try to use R to create a blog, so here we start together.",
+    "author": [
+      {
+        "name": "Yuliana Zhang",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-03-11",
+    "categories": [],
+    "contents": "\nToday, with the help of my advisor Chad, I started to use R to build my blog. Before we start, we need to first update our R packages, and download distill for R.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-11T16:02:54+08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Yuliana's Blog",
     "description": "Welcome to our new blog, Yuliana's Blog. We hope you enjoy \nreading what we have to say!",
@@ -13,7 +30,7 @@
     "categories": [],
     "contents": "\n\n\n\n",
     "preview": {},
-    "last_modified": "2023-03-11T14:28:52+08:00",
+    "last_modified": "2023-03-11T15:58:48+08:00",
     "input_file": {}
   }
 ]

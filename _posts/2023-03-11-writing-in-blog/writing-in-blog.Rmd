@@ -1,0 +1,22 @@
+---
+title: "How to create a blog using R"
+description: |
+  Welcome to our new blog, Yuliana's Blog. This time, we try to use R to create a blog, so here we start together.
+author:
+  - name: Yuliana Zhang 
+    url: https://example.com/norajones
+date: 03-11-2023
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+Today, with the help of my advisor Chad, I started to use R to build my blog. Before we start, we need to first update our R packages, and download distill for R.
