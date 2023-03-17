@@ -1,5 +1,39 @@
 [
   {
+    "path": "posts/2023-03-17-third/",
+    "title": "Week 5 in 23 Spring",
+    "description": "Welcome to our new blog, Yuliana's Blog. This time, we try to share something about git.",
+    "author": [
+      {
+        "name": "Yuliana Zhang",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-03-18",
+    "categories": [],
+    "contents": "\nDuring this week, I learned something new about git.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-17T16:59:24+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-03-17-changing/",
+    "title": "Week 4 in 23 Spring ",
+    "description": "Need to rewrite.",
+    "author": [
+      {
+        "name": "Yuliana Zhang",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-03-13",
+    "categories": [],
+    "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill at https://rstudio.github.io/distill.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-17T16:28:47+08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2023-03-11-writing-in-blog/",
     "title": "How to create a blog using R",
     "description": "Welcome to our new blog, Yuliana's Blog. This time, we try to use R to create a blog, so here we start together.",
@@ -13,24 +47,24 @@
     "categories": [],
     "contents": "\nToday, with the help of my advisor Chad, I started to use R to build my blog. Before we start, we need to first update our R packages, and download distill for R.\n\n\n\n",
     "preview": {},
-    "last_modified": "2023-03-11T16:02:54+08:00",
+    "last_modified": "2023-03-17T16:25:48+08:00",
     "input_file": {}
   },
   {
     "path": "posts/welcome/",
     "title": "Welcome to Yuliana's Blog",
-    "description": "Welcome to our new blog, Yuliana's Blog. We hope you enjoy \nreading what we have to say!",
+    "description": "Welcome to our new blog, Yuliana's Blog. This blog is mainly about Yuliana's learning experience about accounting, business analytics, and later the public policy. I hope you enjoy reading what I have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Yuliana Zhang",
+        "url": {}
       }
     ],
-    "date": "2023-03-11",
+    "date": "2023-03-10",
     "categories": [],
-    "contents": "\n\n\n\n",
+    "contents": "\nThis is the first time I tried to use R to build my blog, so everything is also new for me. If you are also interested in building blogs using R, you can try together with me and build your own blogs and share your thoughts with me. Wish you enjoy it.\nHere are my ideas about what I plan to share:\nSomething about Accounting (my undergraduate program)\nSomething about Software Learning (a lot of experiences when I learn with my professor Chad)\nSomething about Public Policy later (my postgraduate program)\nNotice: Since this is the first time I tried to build blog and build it using R, this blog website will change every time I want to have a better design.\n\n\n\n",
     "preview": {},
-    "last_modified": "2023-03-11T15:58:48+08:00",
+    "last_modified": "2023-03-17T16:56:08+08:00",
     "input_file": {}
   }
 ]

@@ -1,14 +1,10 @@
 ---
 title: "Welcome to Yuliana's Blog"
 description: |
-  Welcome to our new blog, Yuliana's Blog. We hope you enjoy 
-  reading what we have to say!
+  Welcome to our new blog, Yuliana's Blog. This blog is mainly about Yuliana's learning experience about accounting, business analytics, and later the public policy. I hope you enjoy reading what I have to say!
 author:
-  - name: Nora Jones 
-    url: https://example.com/norajones
-    affiliation: Spacely Sprockets
-    affiliation_url: https://example.com/spacelysprokets
-date: 03-11-2023
+  - name: Yuliana Zhang 
+date: 03-10-2023
 output:
   distill::distill_article:
     self_contained: false
@@ -21,6 +17,14 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/blog.html
 
 ```
+This is the first time I tried to use R to build my blog, so everything is also new for me. If you are also interested in building blogs using R, you can try together with me and build your own blogs and share your thoughts with me. Wish you enjoy it.
 
+Here are my ideas about what I plan to share:
+
+1. Something about Accounting (my undergraduate program)
+2. Something about Software  Learning (a lot of experiences when I learn with my professor Chad)
+3. Something about Public Policy later (my postgraduate program)
+
+Notice: Since this is the first time I tried to build blog and build it using R, this blog website will change every time I want to have a better design.  
 
 

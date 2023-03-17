@@ -11,4 +11,6 @@ navbar:
       href: about.html
     - text: "about Yuliana"
       href: Author.html
+    - icon: fa fa-rss
+      href: https://rstudio.github.io/distill/blog.html#creating-a-post
 output: distill::distill_article
