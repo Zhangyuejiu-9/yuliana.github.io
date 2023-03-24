@@ -1,0 +1,25 @@
+---
+title: "Week 6 in 23 Spring"
+description: |
+  Welcome to our new blog, Yuliana's Blog. This time, we try to share something about BIO1000.
+author:
+  - name: Yuliana Zhang 
+    url: https://example.com/norajones
+date: 03-20-2023
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+During this week, I took my first exam of principle of Biology. Since I am a art student in my senior high school, I almost lerned nothing about biology before this course. It is too hard for me to self-learn for this couse.
+
+However, I would never gave up. I choose to first print out all the lecture materials, and then read them and mark the key points row by row. After I finished all the readings, I summarized the key points of each chapters and wrote them dowm on one piece of A4-sheet paper.
+
+After I finished all the summaries, I reread the lecture slides again, and this time, I thought I well-prepared for that exam. 
+
+Finally, I still cannot answer all the questions, but I think my work paid off and got a above averaged grade.

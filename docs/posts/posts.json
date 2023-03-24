@@ -1,5 +1,39 @@
 [
   {
+    "path": "posts/2023-03-24-week62/",
+    "title": "Week 6 in 23 Spring",
+    "description": "Welcome to our new blog, Yuliana's Blog. This time, I want to share something about the visit of the president of Kean University.",
+    "author": [
+      {
+        "name": "Yuliana Zhang",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-03-22",
+    "categories": [],
+    "contents": "\nThis Wednesday, the Kean University’s President Lamont Repollet came to our campus and had lunch with the students representatives. As the student director, I was invited to join this event.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-24T15:08:33+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2023-03-24-week6/",
+    "title": "Week 6 in 23 Spring",
+    "description": "Welcome to our new blog, Yuliana's Blog. This time, we try to share something about BIO1000.",
+    "author": [
+      {
+        "name": "Yuliana Zhang",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2023-03-20",
+    "categories": [],
+    "contents": "\nDuring this week, I took my first exam of principle of Biology. Since I am a art student in my senior high school, I almost lerned nothing about biology before this course. It is too hard for me to self-learn for this couse.\nHowever, I would never gave up. I choose to first print out all the lecture materials, and then read them and mark the key points row by row. After I finished all the readings, I summarized the key points of each chapters and wrote them dowm on one piece of A4-sheet paper.\nAfter I finished all the summaries, I reread the lecture slides again, and this time, I thought I well-prepared for that exam.\nFinally, I still cannot answer all the questions, but I think my work paid off and got a above averaged grade.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2023-03-24T15:01:46+08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/2023-03-17-third/",
     "title": "Week 5 in 23 Spring",
     "description": "Welcome to our new blog, Yuliana's Blog. This time, we try to share something about git.",

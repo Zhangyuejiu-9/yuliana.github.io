@@ -1,0 +1,19 @@
+---
+title: "Week 6 in 23 Spring"
+description: |
+  Welcome to our new blog, Yuliana's Blog. This time, I want to share something about the visit of the president of Kean University. 
+author:
+  - name: Yuliana Zhang 
+    url: https://example.com/norajones
+date: 03-22-2023
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+This Wednesday, the Kean University's President Lamont Repollet came to our campus and had lunch with the students representatives. As the student director, I was invited to join this event.
